@@ -1,4 +1,5 @@
-## Hi there 👋
+__Hi there 👋__
+
 *I'm Anastasiia, a trainee data analyst based in New York. My tech stack is __SQL, Python, Excel/Google Sheets__.*
 
 ⚡ Fun facts:
