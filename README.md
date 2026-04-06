@@ -2,6 +2,14 @@ __Hi there 👋__
 
 *I'm Anastasiia, a trainee data analyst based in New York. My tech stack is __SQL, Python, Excel/Google Sheets__.*
 
+I specialize in:
+- SQL data analysis & data cleaning
+- E-commerce analytics & user behavior insights
+- Dashboarding (Looker Studio)
+
+Projects:
+- ABC Analysis of Jewelry Sales (SQL + Looker Studio)
+
 ⚡ Fun facts:
 - I have a small, cute dog 
 - I grew up near lake Baikal, the deepest lake in the world
